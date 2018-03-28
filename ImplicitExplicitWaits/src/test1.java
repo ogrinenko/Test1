@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public  class test {
+public  class test1 {
 		
 		@BeforeClass
 		public static void otherBeforeClass() {

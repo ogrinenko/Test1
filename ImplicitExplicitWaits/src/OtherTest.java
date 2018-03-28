@@ -8,7 +8,7 @@ import org.junit.runners.Parameterized;
 
 //@RunWith(Parameterized.class)
 
-public class OtherTes {
+public class OtherTest {
 
 	@BeforeClass
 	public static void otherBeforeClass() {

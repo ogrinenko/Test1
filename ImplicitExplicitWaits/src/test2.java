@@ -2,7 +2,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public  class test {
+public  class test2 {
 		
 	
 		@Before
