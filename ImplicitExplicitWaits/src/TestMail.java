@@ -14,7 +14,7 @@ import org.junit.runners.Suite;
 
 @SuiteClasses({OtherTest.class,test1.class, test2.class, })
 @RunWith(Suite.class)
-public class TestMail {
+public class TestMai {
 
 	@BeforeClass
 	public static void setup() {
