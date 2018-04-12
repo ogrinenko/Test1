@@ -36,8 +36,10 @@ public class TestMail {
 		System.out.println("Say Hello");
 	}
 	
-	
-	
+	@Test
+	public void nothingNew() {
+		System.out.println("Say Branch 001");
+	}
 	
 	
 }
