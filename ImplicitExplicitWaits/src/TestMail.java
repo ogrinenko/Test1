@@ -35,5 +35,10 @@ public class TestMail {
 	//Kalidos
 	//New Kali
 
+	@Test
+	public void nothingAgain() {
+		System.out.println("Again you've got nothing");
+	}
+	
 	
 }
