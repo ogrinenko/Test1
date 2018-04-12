@@ -32,7 +32,7 @@ public class TestMail {
 		System.out.println("Say Branch 001");
 	}
 	
-	//Kalidos
+	
 	
 
 	
