@@ -30,4 +30,14 @@ public class TestMail {
 	private List<String> stringList;
 	private List<Integer> integerList;
 	
+	
+	@Test
+	public void nothing() {
+		System.out.println("Say Hello");
+	}
+	
+	
+	
+	
+	
 }
