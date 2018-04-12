@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Suite.SuiteClasses;
 import org.junit.runners.Suite;
 
-
+//Just for case
 @SuiteClasses({OtherTest.class,test1.class, test2.class, })
 @RunWith(Suite.class)
 public class TestMail {
