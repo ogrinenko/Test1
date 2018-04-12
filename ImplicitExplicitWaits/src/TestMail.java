@@ -1,14 +1,9 @@
-import java.util.List;
 
-import org.junit.After;
 import org.junit.AfterClass;
-import org.junit.Assert;
-import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite.SuiteClasses;
-import org.junit.runners.Parameterized;
 import org.junit.runners.Suite;
 
 
@@ -26,10 +21,6 @@ public class TestMail {
 	public static void cleanup() {
 		System.out.println("Test After Class");
 	}
-	
-	private List<String> stringList;
-	private List<Integer> integerList;
-	
 	
 	@Test
 	public void nothing() {
